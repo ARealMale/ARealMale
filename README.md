@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @ARealMale
 - Interested in programming games
-- 🌱 I’m currently learning Unity and use Python or Scratch (ik its a kids website :|) to make games at the moment
+- 🌱 I’m currently learning Unity and use Python/Java to make games at the moment
+- Working on a visual java game currently.
