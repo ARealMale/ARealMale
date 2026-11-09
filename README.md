@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @ARealMale
 - Interested in programming games
-- 🌱 I’m currently learning Unity and use Python/Java to make games at the moment
-- Working on a visual java game currently.
+- Not good (yes I know "good" is a vague word, but I don't know how to use GitHub properly)
+- I know Java and Python, I know how to do Object Oriented Programming
+- I have made games I consider quite fun, but they consist of a single file and are all text-based (my most complex one is 3000 lines)
+- One day I'll figure out how to do things the industry-standard way, but I'm not interested in being industry standard.
